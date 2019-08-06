@@ -90,7 +90,6 @@ for (let i = 0; i < inventory.length; i++){
     let years = inventory[i].car_year;
     carYears.push(years);
 }
-
 console.log(carYears);
 
 // ==== Challenge 5 ====
